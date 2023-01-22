@@ -1,6 +1,8 @@
 ---
 language:
 - en
+- bzs
+- pt
 license: other
 tags:
 - stable-diffusion
