@@ -10,6 +10,7 @@ tags:
 - photoreal
 - diffusers
 inference: false
+pipeline_tag: text-to-image
 ---
 
 # Dreamlike Photoreal 2.0 is a photorealistic model based on Stable Diffusion 1.5, made by [dreamlike.art](https://dreamlike.art/).  
