@@ -1,6 +1,7 @@
 ---
 language:
 - en
+- uk
 license: other
 tags:
 - stable-diffusion
@@ -9,6 +10,7 @@ tags:
 - photorealistic
 - photoreal
 - diffusers
+- art
 inference: false
 ---
 
