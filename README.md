@@ -11,6 +11,7 @@ tags:
 - diffusers
 inference: false
 ---
+[![Open In Spaces](https://camo.githubusercontent.com/00380c35e60d6b04be65d3d94a58332be5cc93779f630bcdfc18ab9a3a7d3388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/dreamlike-art/dreamlike-photoreal-2.0)
 
 # Dreamlike Photoreal 2.0 is a photorealistic model based on Stable Diffusion 1.5, made by [dreamlike.art](https://dreamlike.art/).  
   
