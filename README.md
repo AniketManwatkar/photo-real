@@ -1,6 +1,7 @@
 ---
 language:
 - en
+- tr
 license: other
 tags:
 - stable-diffusion
